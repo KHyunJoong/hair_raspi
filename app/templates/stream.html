@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Live Camera Stream</title>
+</head>
+<body>
+    <h1>Live Camera Stream</h1>
+
+    <!-- 실시간 스트리밍을 표시하는 부분 -->
+    <img src="/api/v1/video_feed" width="640" height="480">
+
+    <br>
+    <button onclick="captureImage()">Capture</button>
+
+    <script>
+        function captureImage() {
+            fetch('/api/v1/capture')
+            .then(response => response.json())
+            .then(data => {
+                alert(data.message);
+                window.location.href = "/api/v1/view";
+            });
+        }
+    </script>
+</body>
+</html>
