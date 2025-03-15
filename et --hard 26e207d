@@ -1,0 +1,14 @@
+[33mfec652e[m[33m ([m[1;36mHEAD[m[33m)[m HEAD@{0}: rebase (start): checkout fec652e4b3fc1fa1878100f06ac3310686e4448a
+[33m26e207d[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{1}: rebase (finish): returning to refs/heads/master
+[33m26e207d[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{2}: rebase: fast-forward
+[33m9890f80[m HEAD@{3}: rebase (start): checkout 9890f80f2fc420cecec677bd0976d67ad1a85f99
+[33m26e207d[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{4}: rebase (abort): returning to refs/heads/master
+[33m26e207d[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{5}: rebase (abort): returning to refs/heads/master
+[33m26e207d[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{6}: rebase (abort): returning to refs/heads/master
+[33m26e207d[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{7}: rebase (abort): returning to refs/heads/master
+[33m26e207d[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{8}: reset: moving to HEAD
+[33m26e207d[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{9}: reset: moving to 26e207d2bd99a98dc13e0ff2f943c8be263cf864
+[33m26e207d[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{10}: reset: moving to HEAD
+[33m26e207d[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{11}: reset: moving to HEAD~1
+[33m56e45b8[m HEAD@{12}: commit: obd
+[33m26e207d[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{13}: commit (initial): Initial commit
