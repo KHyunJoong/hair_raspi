@@ -40,27 +40,32 @@
 
 ## 📂 시스템 구조도
 ### 시스템 아키텍처
-![시스템 아키텍처](systemArchitecture.png)
+![시스템 아키텍처](![systemArchitecture](https://github.com/user-attachments/assets/bbcbcff1-94b8-410c-a0b8-f90071e85227)
+)
 
 ### 액티비티 아키텍처
-![액티비티 아키텍처](activity_diagram.png)
+![액티비티 아키텍처](![activity diagram](https://github.com/user-attachments/assets/df74dfc0-1c54-492b-b4be-af874807f625)
+)
 
 ---
 
 ## 📂 AI 모델 구성
 ### 모공당 모발 개수 (YOLOv11)
-![YOLO 모공당 모발 개수](YOLO.png)
+![YOLO 모공당 모발 개수]()
 
 ### 두피 상태 분류 (EfficientNet, MobileNet 기반 CNN)
-![두피 상태 분류](CNN.png)
+![두피 상태 분류](![CNN](https://github.com/user-attachments/assets/6851773f-5ece-4886-a38d-09f35415f627)
+)
 
 ### 두피 면적 대비 모발 분포 (U-Net Segmentation)
-![두피 면적 대비 모발 분포](Unet.png)
+![두피 면적 대비 모발 분포]()
 
 ---
 
 ## 📱 서비스 UI 디자인
-- 날짜 기록, 상세 리포트, 변화 추이 화면 제공: *(image5.png)*
+- 날짜 기록, 상세 리포트, 변화 추이 화면 제공:
+- (![그림7](https://github.com/user-attachments/assets/ef95bff5-94cf-4db1-93e1-ab2c6dd6eb1b)
+)
 
 ---
 """
