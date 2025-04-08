@@ -1,1 +1,2 @@
 app/model/unet_model_200_dynamic_quantized_float32.tflite filter=lfs diff=lfs merge=lfs -text
+*.tflite filter=lfs diff=lfs merge=lfs -text
