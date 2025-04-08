@@ -55,7 +55,8 @@
 ## 📂 AI 모델 구성
 ### 모공당 모발 개수 (YOLOv11)
 
-![YOLO](https://github.com/user-attachments/assets/26e50e9c-ae5c-4546-b678-9f24a647a5e7)
+![YOLO](https://github.com/user-attachments/assets/8fcf06db-c402-4d80-8927-1eeec8f41498)
+
 
 
 ### 두피 상태 분류 (EfficientNet, MobileNet 기반 CNN)
@@ -65,7 +66,8 @@
 
 ### 두피 면적 대비 모발 분포 (U-Net Segmentation)
 
-![unet](https://github.com/user-attachments/assets/a5c57a71-de57-4816-a32c-56a615173672)
+![unet](https://github.com/user-attachments/assets/5d10c03f-146d-4fd6-9c7d-a754e2b2acf2)
+
 
 ---
 
