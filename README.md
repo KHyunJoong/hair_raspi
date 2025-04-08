@@ -7,9 +7,10 @@
 
 ## 👥 팀 구성
 - **총원**: 3명
-  - 개발 1명
-  - 기획 2명
-
+  - 기획 - 김재인, 황지해
+  - 데이터 분석&개발 - 김현중
+- **기간**: 2025.02.24 ~ 2025.03.17
+   
 ---
 
 ## 🛠️ 주요 기술 스택
@@ -40,12 +41,12 @@
 
 ## 📂 시스템 구조도
 ### 시스템 아키텍처
-![시스템 아키텍처]
+
 ![systemArchitecture](https://github.com/user-attachments/assets/c4bbc1b1-840e-43ca-857f-19bf9c1a7c83)
 
 
 ### 액티비티 아키텍처
-![액티비티 아키텍처]
+
 ![activity diagram](https://github.com/user-attachments/assets/df74dfc0-1c54-492b-b4be-af874807f625)
 
 
@@ -53,17 +54,17 @@
 
 ## 📂 AI 모델 구성
 ### 모공당 모발 개수 (YOLOv11)
-![YOLO 모공당 모발 개수]
+
 ![YOLO](https://github.com/user-attachments/assets/26e50e9c-ae5c-4546-b678-9f24a647a5e7)
 
 
 ### 두피 상태 분류 (EfficientNet, MobileNet 기반 CNN)
-![두피 상태 분류]
+
 ![CNN](https://github.com/user-attachments/assets/6eafdb7a-e1a4-4b83-ba7d-23af2ebad04f)
 
 
 ### 두피 면적 대비 모발 분포 (U-Net Segmentation)
-![두피 면적 대비 모발 분포]
+
 ![unet](https://github.com/user-attachments/assets/a5c57a71-de57-4816-a32c-56a615173672)
 
 ---
